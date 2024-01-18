@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomek
 - 👀 I’m interested in new technologies and programming.
-- 🌱 I’m currently learning software testing and C# programming
+- 🌱 I’m currently learning software testing and JS programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
